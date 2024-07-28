@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dogan\\Desktop\\projeler\\PROJE-20240727T214037Z-001\\Dogan G\u00FC\u00E7l\u00FC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F323BD0A-772C-43A1-A705-185AC84F7D36}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|c:\\users\\dogan\\desktop\\projeler\\proje-20240727t214037z-001\\dogan g\u00FC\u00E7l\u00FC\\windowsformsapplication2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F323BD0A-772C-43A1-A705-185AC84F7D36}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|solutionrelative:windowsformsapplication2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F323BD0A-772C-43A1-A705-185AC84F7D36}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|c:\\users\\dogan\\desktop\\projeler\\proje-20240727t214037z-001\\dogan g\u00FC\u00E7l\u00FC\\windowsformsapplication2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F323BD0A-772C-43A1-A705-185AC84F7D36}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|solutionrelative:windowsformsapplication2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Dogan\\Desktop\\projeler\\PROJE-20240727T214037Z-001\\Dogan G\u00FC\u00E7l\u00FC\\WindowsFormsApplication2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dogan\\Desktop\\projeler\\PROJE-20240727T214037Z-001\\Dogan G\u00FC\u00E7l\u00FC\\WindowsFormsApplication2\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:38:51.937Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Dogan\\Desktop\\projeler\\PROJE-20240727T214037Z-001\\Dogan G\u00FC\u00E7l\u00FC\\WindowsFormsApplication2\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Form2.cs",
+              "ToolTip": "C:\\Users\\Dogan\\Desktop\\projeler\\PROJE-20240727T214037Z-001\\Dogan G\u00FC\u00E7l\u00FC\\WindowsFormsApplication2\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:38:51.473Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F323BD0A-772C-43A1-A705-185AC84F7D36}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication2</RootNamespace>
+    <AssemblyName>WindowsFormsApplication2</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GirişDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GirişDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="uyeDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uyeDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uyeDataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uyeDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uyeDataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uyeDataSet13.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uyeDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uyeDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uyeDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uyeDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uyeDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uyeDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uyeDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uyeDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>uyeDataSet9.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="GirişDataSet.xsc">
+      <DependentUpon>GirişDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GirişDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GirişDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GirişDataSet.xss">
+      <DependentUpon>GirişDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="uyeDataSet.xsc">
+      <DependentUpon>uyeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet.xss">
+      <DependentUpon>uyeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet1.xsc">
+      <DependentUpon>uyeDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet1.xss">
+      <DependentUpon>uyeDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet10.xsc">
+      <DependentUpon>uyeDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet10.xss">
+      <DependentUpon>uyeDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet11.xsc">
+      <DependentUpon>uyeDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet11.xss">
+      <DependentUpon>uyeDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet12.xsc">
+      <DependentUpon>uyeDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet12.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet12.xss">
+      <DependentUpon>uyeDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet13.xsc">
+      <DependentUpon>uyeDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet13.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet13.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet13.xss">
+      <DependentUpon>uyeDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet2.xsc">
+      <DependentUpon>uyeDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet2.xss">
+      <DependentUpon>uyeDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet3.xsc">
+      <DependentUpon>uyeDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet3.xss">
+      <DependentUpon>uyeDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet4.xsc">
+      <DependentUpon>uyeDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet4.xss">
+      <DependentUpon>uyeDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet5.xsc">
+      <DependentUpon>uyeDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet5.xss">
+      <DependentUpon>uyeDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet6.xsc">
+      <DependentUpon>uyeDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet6.xss">
+      <DependentUpon>uyeDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet7.xsc">
+      <DependentUpon>uyeDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet7.xss">
+      <DependentUpon>uyeDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet8.xsc">
+      <DependentUpon>uyeDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet8.xss">
+      <DependentUpon>uyeDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet9.xsc">
+      <DependentUpon>uyeDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="uyeDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>uyeDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="uyeDataSet9.xss">
+      <DependentUpon>uyeDataSet9.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Adsız-1.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ueuieuieeeee.fw2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iueuieuie.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iueuieuie.fw1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Giriş.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="uye.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="uye.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

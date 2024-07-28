@@ -1,0 +1,50 @@
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Giriş.accdb
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\uye.accdb
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\bin\Debug\Giriş.accdb
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\bin\Debug\uye.accdb
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\user\Desktop\Dogan Güçlü\WindowsFormsApplication2\bin\Debug\uye.mdb
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\bin\Debug\Giriş.accdb
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\bin\Debug\uye.accdb
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\bin\Debug\uye.mdb
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\Dogan Güçlü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

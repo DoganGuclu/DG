@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PROJE DENEME 1\PROJE DENEME 1\bin\Debug\PROJE DENEME 1.exe.config
+C:\Users\user\source\repos\PROJE DENEME 1\PROJE DENEME 1\bin\Debug\PROJE DENEME 1.exe
+C:\Users\user\source\repos\PROJE DENEME 1\PROJE DENEME 1\bin\Debug\PROJE DENEME 1.pdb
+C:\Users\user\source\repos\PROJE DENEME 1\PROJE DENEME 1\obj\Debug\PROJE DENEME 1.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\PROJE DENEME 1\PROJE DENEME 1\obj\Debug\PROJE DENEME 1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PROJE DENEME 1\PROJE DENEME 1\obj\Debug\PROJE DENEME 1.exe
+C:\Users\user\source\repos\PROJE DENEME 1\PROJE DENEME 1\obj\Debug\PROJE DENEME 1.pdb
+C:\Users\user\Desktop\PROJE\PROJE\bin\Debug\PROJE DENEME 1.exe.config
+C:\Users\user\Desktop\PROJE\PROJE\bin\Debug\PROJE DENEME 1.exe
+C:\Users\user\Desktop\PROJE\PROJE\bin\Debug\PROJE DENEME 1.pdb
+C:\Users\user\Desktop\PROJE\PROJE\obj\Debug\PROJE.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PROJE\PROJE\obj\Debug\PROJE DENEME 1.exe
+C:\Users\user\Desktop\PROJE\PROJE\obj\Debug\PROJE DENEME 1.pdb

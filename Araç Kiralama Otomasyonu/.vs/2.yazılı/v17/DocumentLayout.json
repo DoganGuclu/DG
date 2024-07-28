@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dogan\\Desktop\\projeler\\PROJE-20240727T214037Z-001\\2.yaz\u0131l\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dogan\\Desktop\\projeler\\PROJE-20240727T214037Z-001\\2.yaz\u0131l\u0131\\WindowsFormsApplication2\\WindowsFormsApplication2.v11.suo||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApplication2\\WindowsFormsApplication2.v11.suo||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowsFormsApplication2.v11.suo",
+              "DocumentMoniker": "C:\\Users\\Dogan\\Desktop\\projeler\\PROJE-20240727T214037Z-001\\2.yaz\u0131l\u0131\\WindowsFormsApplication2\\WindowsFormsApplication2.v11.suo",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\WindowsFormsApplication2.v11.suo",
+              "ToolTip": "C:\\Users\\Dogan\\Desktop\\projeler\\PROJE-20240727T214037Z-001\\2.yaz\u0131l\u0131\\WindowsFormsApplication2\\WindowsFormsApplication2.v11.suo",
+              "RelativeToolTip": "WindowsFormsApplication2\\WindowsFormsApplication2.v11.suo",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE0SURBVDhPY2RAAt\u002B\u002BffsPZRICC7i4uBIZ/v//j2GAj48PlIcduLi4MBQUFICYYEOwGrBu7XqoCCoICg4E08iGMIFFSAR79uxhmDBhAoiZgNcAkI0wjA5AhmAAkBecnJz\u002Bf3j/kSAGqQOph7sAyDGAMjEAzAXYXAI2AKp5P4gNAywszAxrm3YwdPnOZKhPaQPzsQUuzAX7l1dvFgBihi1btoAVr6zbynB6w0WGd08/MCyv3sTAxMyE1QUsUFoApBgZgPihjV4Mq\u002Bu3QUUY8LoADDrOlYM1wjQb\u002B\u002BpCZSAAZxgQC7C5AOYFMKgw6mQwDdAHs5Gdjg/ADPgA1CgAYkS2\u002BoIFQADdEGxeAOcFpGgEGwIDoFi5e/ohg3uWHdBlelBRHABkCHJigvLfQ3EDEKMYDgEMDADAsbEC\u002B6Vc4wAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-28T09:35:43.088Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

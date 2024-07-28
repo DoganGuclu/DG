@@ -1,0 +1,21 @@
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Yeni Microsoft Office Access 2007 Veritabanı.accdb
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\lab3-4\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\2.Proje\WindowsFormsApplication1\bin\Debug\Yeni Microsoft Office Access 2007 Veritabanı.accdb
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\2.Proje\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\2.Proje\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\2.Proje\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\2.Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\2.Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\2.Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\2.Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\2.Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\2.Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Dogan\Desktop\projeler\PROJE-20240727T214037Z-001\2.Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
